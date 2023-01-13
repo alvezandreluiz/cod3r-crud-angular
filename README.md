@@ -2,6 +2,9 @@
 
 :point_right:[**Visit the project website**](https://cod3r-crud-angular.vercel.app/)
 
+<br>
+Run the commands below in both folders (frontend and backend).
+
 ## Project setup
 ```
 npm install
